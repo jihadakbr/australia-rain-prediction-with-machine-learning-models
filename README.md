@@ -1,5 +1,10 @@
 
 # Australia Rain Prediction with Machine Learning Models
+
+This project was completed as a part of the Honors portion of the [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python) Course on [Coursera](https://www.coursera.org/).
+
+Credit to IBM and the Coursera platform for providing the course materials and guidance.
+
 ## Objective
 
 The objective of this project is to analyze and classify the rainfall data provided by the Australian Government's Bureau of Meteorology using different classification algorithms. The dataset will be cleaned and preprocessed to remove any inconsistencies or missing values before being used to build the models. 
